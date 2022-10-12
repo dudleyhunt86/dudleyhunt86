@@ -3,7 +3,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=dudleyhunt86&icon=0&color=9)](https://visitcount.itsvg.in)
 
-- 🔭 I am currently working as a **Senior Python Developer, Django Expert**
+- 🔭 I am currently working as a **Senior Python & Django Expert**
 
 
 ### 💻 Tech Stack:
